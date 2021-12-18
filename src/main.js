@@ -9,12 +9,7 @@ const hashMap = xObject || [
     {
         logo: 'B',  url: 'https://www.bilibili.com'
     },
-    {
-        logo: 'C',  url: 'https://cssgradient.io/'
-    },
-    {
-        logo: 'Q',  url: 'https://www.qq.com'
-    },]
+    ]
 
     const simplifyUrl = (url) => {
     return url.replace('https://','')
