@@ -112,6 +112,10 @@ var hashMap = xObject || [{
     logo: 'A', url: 'https://www.acfun.cn'
 }, {
     logo: 'B', url: 'https://www.bilibili.com'
+}, {
+    logo: 'C', url: 'https://cssgradient.io/'
+}, {
+    logo: 'Q', url: 'https://www.qq.com'
 }];
 
 var simplifyUrl = function simplifyUrl(url) {
@@ -166,4 +170,4 @@ $(document).on('keypress', function (e) {
     }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.ffdfc733.map
+//# sourceMappingURL=main.991a70b4.map
